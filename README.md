@@ -10,6 +10,22 @@ A curated list of delightful [Brackets](https://brackets.io/) packages and resou
   - [JavaScript](#javascript)
 - [Themes](#themes)
 - [Uncategorized](#uncategorized)
+  - [Autosave on View Change](#autosave-on-view-change)
+  - [Brackets Beautify](#brackets-beautify)
+  - [Brackets Dash](#brackets-dash)
+  - [Brackets Detect Indentation](#brackets-detect-indentation)
+  - [Brackets Git](#brackets-git)
+  - [Brackets Grunt](#brackets-grunt)
+  - [Emmet](#emmet)
+  - [eqFTP](#eqftp)
+  - [Brackets Image Dimension Extractor](#brackets-image-dimension-extractor)
+  - [Inline Gradient Editor for Brackets](#inline-gradient-editor-for-brackets)
+  - [Markdown Preview](#markdown-preview)
+  - [Brackets Minimap](#brackets-minimap)
+  - [Numbered Bookmarks](#numbered-bookmarks)
+  - [Show Whitespace](#show-whitespace)
+  - [Whitespace Sanitizer](#whitespace-sanitizer)
+  - [Brackets Working File Tabs](#brackets-working-file-tabs)
 
 ## Official
 
