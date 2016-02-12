@@ -56,6 +56,11 @@ Delphi style bookmarking. You can set 9 bookmarks for each file, and you can dir
 
 ![](https://github.com/robcaa/numbered-bookmarks/raw/master/howtouse.gif?raw=true)
 
+### [Brackets Working File Tabs](https://github.com/demonmhon/brackets-working-file-tabs)
+Enable working files list in Sidebar to show as tabs
+
+![](https://github.com/demonmhon/brackets-working-file-tabs/raw/master/img/screenshot-1.0.3-01.png)
+
 ## Resources for extension developers
 
 * [How to write extensions](https://github.com/adobe/brackets/wiki/How-to-write-extensions) - official guide
