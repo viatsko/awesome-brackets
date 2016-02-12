@@ -14,6 +14,8 @@ A curated list of delightful [Brackets](https://brackets.io/) packages and resou
 
 ## Resources for extension developers
 
+* [How to write extensions](https://github.com/adobe/brackets/wiki/How-to-write-extensions) - official guide
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
