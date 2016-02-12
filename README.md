@@ -29,6 +29,11 @@ A curated list of delightful [Brackets](https://brackets.io/) packages and resou
 
 ## Official
 
+- [Official website](http://brackets.io/)
+- [Source code](https://github.com/adobe/brackets) on GitHub
+- [Releases](https://github.com/adobe/brackets/releases)
+- [Blog](http://blog.brackets.io/)
+
 ## Syntax
 
 - [Go](https://github.com/devinceble/brackets-go)
