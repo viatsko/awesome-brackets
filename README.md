@@ -24,6 +24,9 @@ A curated list of delightful [Brackets](https://brackets.io/) packages and resou
 
 ## Uncategorized
 
+### [Autosave on View Change](https://github.com/marcantony/brackets-autosave-on-view-change)
+Autosaves the current document, if changed, when switching to another document or on window blur (when switching away from Brackets to something else).
+
 ### [Brackets Beautify](https://github.com/brackets-beautify/brackets-beautify)
 Brackets Extension that formats open HTML, CSS, and JavaScript files using js-beautify.
 
