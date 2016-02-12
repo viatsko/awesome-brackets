@@ -52,6 +52,14 @@ High-speed HTML and CSS workflow
 ### [eqFTP](http://equals182.github.io/eqFTP/)
 eqFTP is a FTP/SFTP client for Brackets code editor.
 
+### [Brackets Image Dimension Extractor](https://github.com/Kreshnik/brackets-image-dimension-extractor)
+Adds an context menu item called 'get image dimension' with which you can extract width, height from css background images.
+
+### [Inline Gradient Editor for Brackets](https://github.com/peterflynn/brackets-gradient-editor)
+Put your cursor on a CSS gradient and press Ctrl-E (Quick Edit) to bring up the editor. Also works in LESS & SASS files.
+
+![](https://camo.githubusercontent.com/9c4fa2437fbfb84cf1ce3d8cbadb1ba3fa37a92a/687474703a2f2f7065746572666c796e6e2e6769746875622e696f2f73637265656e73686f74732f627261636b6574732d6772616469656e742d656469746f722e706e67)
+
 ### [Markdown Preview](https://github.com/gruehle/MarkdownPreview)
 A Brackets extension that provides a live preview of markdown documents.
 
