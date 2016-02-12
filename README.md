@@ -18,6 +18,7 @@ A curated list of delightful [Brackets](https://brackets.io/) packages and resou
 ### JavaScript
 
 - [ESLint](https://github.com/fdecampredon/brackets-eslint)
+- [Flow](https://github.com/Wikunia/brackets-flow-lint)
 
 ## Themes
 
@@ -25,6 +26,9 @@ A curated list of delightful [Brackets](https://brackets.io/) packages and resou
 
 ### [Brackets Beautify](https://github.com/brackets-beautify/brackets-beautify)
 Brackets Extension that formats open HTML, CSS, and JavaScript files using js-beautify.
+
+### [Brackets Dash](https://github.com/cfjedimaster/brackets-dash)
+Adds Dash integration with Brackets. Requires Dash and OSX
 
 ### [Brackets Detect Indentation](https://github.com/hirse/brackets-detect-indentation)
 Brackets Extension to detect the indentation used in the current file and set your editor settings accordingly.
