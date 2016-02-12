@@ -23,6 +23,9 @@ A curated list of delightful [Brackets](https://brackets.io/) packages and resou
 
 ## Uncategorized
 
+### [Brackets Detect Indentation](https://github.com/hirse/brackets-detect-indentation)
+Brackets Extension to detect the indentation used in the current file and set your editor settings accordingly.
+
 ### [Brackets Git](https://github.com/zaggino/brackets-git)
 Integration of Git into Brackets 
 
