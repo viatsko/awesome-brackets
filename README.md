@@ -4,6 +4,13 @@ A curated list of delightful [Brackets](https://brackets.io/) packages and resou
 
 # Table of Content
 
+- [Official](#official)
+- [Syntax](#syntax)
+- [Linters](#linters)
+  - [JavaScript](#javascript)
+- [Themes](#themes)
+- [Uncategorized](#uncategorized)
+
 ## Official
 
 ## Syntax
