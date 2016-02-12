@@ -2,7 +2,7 @@
 
 To submit a package to this list, please do the following:
 
-1. Find a link to the package you consider is awesome. Use the link from [brackets-registry.aboutweb.com](https://brackets-registry.aboutweb.com/) or Package Home Page where possible instead of a link from its GitHub repository.
+1. Find a link to the package you consider is awesome. Use the link from [brackets-registry.aboutweb.com](https://brackets-registry.aboutweb.com/), Package Home Page or GitHub repository.
 2. Find the appropriate place for your package. If it belongs to a certain section, put it there. If it doesn't belong to a specific category, you should put it in the `uncategorized` section. Make sure to put your package in the alphabetical odrer.
 3. If possible, find a `.gif` animation that displays the functionality of the package.
 
