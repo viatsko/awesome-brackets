@@ -38,6 +38,9 @@ Integration of Git into Brackets
 
 ![](https://github.com/zaggino/brackets-git/raw/master/screenshots/history.jpg)
 
+### [Emmet](http://emmet.io/)
+High-speed HTML and CSS workflow 
+
 ### [eqFTP](http://equals182.github.io/eqFTP/)
 eqFTP is a FTP/SFTP client for Brackets code editor.
 
