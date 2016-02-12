@@ -8,6 +8,15 @@ A curated list of delightful [Brackets](https://brackets.io/) packages and resou
 
 ## Syntax
 
+- [Go](https://github.com/devinceble/brackets-go)
+- [React JSX](https://github.com/apla/brackets-jsx)
+
+## Linters
+
+### JavaScript
+
+- [ESLint](https://github.com/fdecampredon/brackets-eslint)
+
 ## Themes
 
 ## Uncategorized
@@ -21,6 +30,9 @@ Integration of Git into Brackets
 A minimap extension for the Brackets IDE.
 
 ![](https://camo.githubusercontent.com/97d7f72a48c5dab39e44a4934918205cd324b9f7/68747470733a2f2f7261772e6769746875622e636f6d2f7a6f72677a6572672f627261636b6574732d6d696e696d61702f6d61737465722f627261636b6574732d6d696e696d61702e706e67)
+
+### [eqFTP](http://equals182.github.io/eqFTP/)
+eqFTP is a FTP/SFTP client for Brackets code editor.
 
 ### [Numbered Bookmarks](https://github.com/robcaa/numbered-bookmarks)
 Delphi style bookmarking. You can set 9 bookmarks for each file, and you can directly jump to them.
