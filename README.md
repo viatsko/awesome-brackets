@@ -12,10 +12,20 @@ A curated list of delightful [Brackets](https://brackets.io/) packages and resou
 
 ## Uncategorized
 
+### [Brackets Git](https://github.com/zaggino/brackets-git)
+Integration of Git into Brackets 
+
+![](https://github.com/zaggino/brackets-git/raw/master/screenshots/history.jpg)
+
 ### [Brackets Minimap](https://github.com/zorgzerg/brackets-minimap)
 A minimap extension for the Brackets IDE.
 
 ![](https://camo.githubusercontent.com/97d7f72a48c5dab39e44a4934918205cd324b9f7/68747470733a2f2f7261772e6769746875622e636f6d2f7a6f72677a6572672f627261636b6574732d6d696e696d61702f6d61737465722f627261636b6574732d6d696e696d61702e706e67)
+
+### [Numbered Bookmarks](https://github.com/robcaa/numbered-bookmarks)
+Delphi style bookmarking. You can set 9 bookmarks for each file, and you can directly jump to them.
+
+![](https://github.com/robcaa/numbered-bookmarks/raw/master/howtouse.gif?raw=true)
 
 ## Resources for extension developers
 
