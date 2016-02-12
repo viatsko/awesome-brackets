@@ -41,6 +41,11 @@ Integration of Git into Brackets
 
 ![](https://github.com/zaggino/brackets-git/raw/master/screenshots/history.jpg)
 
+### [Brackets Grunt](https://github.com/dhategan/brackets-grunt)
+Extension that lists and runs Grunt tasks inside Brackets
+
+![](https://camo.githubusercontent.com/8c96d88f99964f2186ca581f7681951043bd2c58/687474703a2f2f692e696d6775722e636f6d2f51614d6c6248522e706e67)
+
 ### [Emmet](http://emmet.io/)
 High-speed HTML and CSS workflow 
 
