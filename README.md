@@ -75,6 +75,9 @@ Delphi style bookmarking. You can set 9 bookmarks for each file, and you can dir
 
 ![](https://github.com/robcaa/numbered-bookmarks/raw/master/howtouse.gif?raw=true)
 
+### [Show Whitespace](https://github.com/DennisKehrig/brackets-show-whitespace)
+A Brackets extension to visualize whitespace (both spaces and tabs) in the same style as Sublime Text.
+
 ### [Whitespace Sanitizer](https://github.com/MiguelCastillo/Brackets-wsSanitizer)
 Bring sanity to your code by keeping your indentation (spaces and tabs) consistent; the white space sanitizer:
 * Trims trailing white spaces
