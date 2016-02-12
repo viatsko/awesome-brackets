@@ -11,6 +11,7 @@ A curated list of delightful [Brackets](https://brackets.io/) packages and resou
 - [Go](https://github.com/devinceble/brackets-go)
 - [React JSX](https://github.com/apla/brackets-jsx)
 - [Rust](https://github.com/rrandom/Brackets-Rust-IDE) - linter included
+- [Soy](https://github.com/bogyo/SOY-brackets)
 
 ## Linters
 
