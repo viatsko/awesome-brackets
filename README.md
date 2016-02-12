@@ -75,6 +75,17 @@ Delphi style bookmarking. You can set 9 bookmarks for each file, and you can dir
 
 ![](https://github.com/robcaa/numbered-bookmarks/raw/master/howtouse.gif?raw=true)
 
+### [Whitespace Sanitizer](https://github.com/MiguelCastillo/Brackets-wsSanitizer)
+Bring sanity to your code by keeping your indentation (spaces and tabs) consistent; the white space sanitizer:
+* Trims trailing white spaces
+* Ensures newline at the end of the file
+* Uses Brackets preferences for tabs and spaces, including configured units (2 spaces, 4 spaces, etc.)
+* Gracefully handles mixed tabs and spaces
+* Sanitize on file save
+* Sanitize on file open
+
+White Space Sanitizer goes well with [Show Whitespace](https://github.com/DennisKehrig/brackets-show-whitespace).
+
 ### [Brackets Working File Tabs](https://github.com/demonmhon/brackets-working-file-tabs)
 Enable working files list in Sidebar to show as tabs
 
