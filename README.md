@@ -23,6 +23,9 @@ A curated list of delightful [Brackets](https://brackets.io/) packages and resou
 
 ## Uncategorized
 
+### [Brackets Beautify](https://github.com/brackets-beautify/brackets-beautify)
+Brackets Extension that formats open HTML, CSS, and JavaScript files using js-beautify.
+
 ### [Brackets Detect Indentation](https://github.com/hirse/brackets-detect-indentation)
 Brackets Extension to detect the indentation used in the current file and set your editor settings accordingly.
 
@@ -31,11 +34,6 @@ Integration of Git into Brackets
 
 ![](https://github.com/zaggino/brackets-git/raw/master/screenshots/history.jpg)
 
-### [Brackets Minimap](https://github.com/zorgzerg/brackets-minimap)
-A minimap extension for the Brackets IDE.
-
-![](https://camo.githubusercontent.com/97d7f72a48c5dab39e44a4934918205cd324b9f7/68747470733a2f2f7261772e6769746875622e636f6d2f7a6f72677a6572672f627261636b6574732d6d696e696d61702f6d61737465722f627261636b6574732d6d696e696d61702e706e67)
-
 ### [eqFTP](http://equals182.github.io/eqFTP/)
 eqFTP is a FTP/SFTP client for Brackets code editor.
 
@@ -43,6 +41,11 @@ eqFTP is a FTP/SFTP client for Brackets code editor.
 A Brackets extension that provides a live preview of markdown documents.
 
 ![](https://github.com/gruehle/MarkdownPreview/raw/master/screenshots/markdown-preview.png?raw=true)
+
+### [Brackets Minimap](https://github.com/zorgzerg/brackets-minimap)
+A minimap extension for the Brackets IDE.
+
+![](https://camo.githubusercontent.com/97d7f72a48c5dab39e44a4934918205cd324b9f7/68747470733a2f2f7261772e6769746875622e636f6d2f7a6f72677a6572672f627261636b6574732d6d696e696d61702f6d61737465722f627261636b6574732d6d696e696d61702e706e67)
 
 ### [Numbered Bookmarks](https://github.com/robcaa/numbered-bookmarks)
 Delphi style bookmarking. You can set 9 bookmarks for each file, and you can directly jump to them.
