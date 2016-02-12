@@ -12,6 +12,11 @@ A curated list of delightful [Brackets](https://brackets.io/) packages and resou
 
 ## Uncategorized
 
+### [Brackets Minimap](https://github.com/zorgzerg/brackets-minimap)
+A minimap extension for the Brackets IDE.
+
+![](https://camo.githubusercontent.com/97d7f72a48c5dab39e44a4934918205cd324b9f7/68747470733a2f2f7261772e6769746875622e636f6d2f7a6f72677a6572672f627261636b6574732d6d696e696d61702f6d61737465722f627261636b6574732d6d696e696d61702e706e67)
+
 ## Resources for extension developers
 
 * [How to write extensions](https://github.com/adobe/brackets/wiki/How-to-write-extensions) - official guide
