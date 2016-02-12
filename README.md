@@ -36,6 +36,11 @@ A minimap extension for the Brackets IDE.
 ### [eqFTP](http://equals182.github.io/eqFTP/)
 eqFTP is a FTP/SFTP client for Brackets code editor.
 
+### [Markdown Preview](https://github.com/gruehle/MarkdownPreview)
+A Brackets extension that provides a live preview of markdown documents.
+
+![](https://github.com/gruehle/MarkdownPreview/raw/master/screenshots/markdown-preview.png?raw=true)
+
 ### [Numbered Bookmarks](https://github.com/robcaa/numbered-bookmarks)
 Delphi style bookmarking. You can set 9 bookmarks for each file, and you can directly jump to them.
 
