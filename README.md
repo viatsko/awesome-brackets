@@ -50,6 +50,26 @@ A curated list of delightful [Brackets](https://brackets.io/) packages and resou
 
 ## Themes
 
+A lot of Brackets themes are available on [http://brackets-themes.github.io/](http://brackets-themes.github.io/).
+
+Here're some of them:
+
+### Light Soda
+
+![](https://raw.githubusercontent.com/Brackets-Themes/LightSoda/master/screenshots/CSS.png)
+
+### Monokai
+
+![](https://raw.githubusercontent.com/Brackets-Themes/Monokai/master/screenshots/js.png)
+
+### Solarized
+
+![](https://raw.githubusercontent.com/Brackets-Themes/Solarized/master/screenshot.png)
+
+### Tomorrow Night
+
+![](https://raw.githubusercontent.com/Brackets-Themes/TomorrowNight/master/tomorrow-night-screenshot-css.png)
+
 ## Uncategorized
 
 ### [Autosave on View Change](https://github.com/marcantony/brackets-autosave-on-view-change)
